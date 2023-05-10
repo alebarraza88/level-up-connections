@@ -142,6 +142,8 @@ header nav ul li a {
 }
 
 .section-three {
+	padding-left: 3%;
+	padding-top: 3%;
 	width: 100%;
 }
 
@@ -160,6 +162,12 @@ header nav ul li a {
 	font-size: 1rem;
 	line-height: 36px;
 }
+#contact #contact-img{
+	width:100%;
+	height:auto;
+
+}
+
 /***** starting width values>> section1:29%, section2:42%,section3:29% *****/
 /******** FOOTER STYLES ********/
 /* The widths are in a percentage! */
