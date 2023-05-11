@@ -47,7 +47,9 @@ h4 {
 p {
 	line-height: 36px;
 }
-
+a link{
+	color:#c6040e;
+}
 /******** HEADER STYLES ********/
 /* The widths are in a percentage! */
 header {
